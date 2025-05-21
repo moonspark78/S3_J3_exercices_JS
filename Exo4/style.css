@@ -1,0 +1,18 @@
+.image-container img{
+    border: solid 2px black;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 50px;
+    object-fit: cover;
+}
+#gallery{
+    display: flex;
+    gap: 10px;
+}
+
+.image{
+    border: solid 2px black;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
